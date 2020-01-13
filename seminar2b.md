@@ -1,4 +1,4 @@
-seminar 2b
+seminar 2a
 ================
 Rachel Miller
 13 January, 2020
